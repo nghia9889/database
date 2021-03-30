@@ -1,72 +1,54 @@
-[
-  {
-    "person": {
+{
+  "person": [
+    {
+      "name": "Monkey D Luffy",
+      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
+      "position": "Captian"
+    },
+    {
+      "name": "Monkey D Luffy",
+      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
+      "position": "Captian"
+    },
+    {
+      "name": "Monkey D Luffy",
+      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
+      "position": "Captian"
+    },
+    {
+      "name": "Monkey D Luffy",
+      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
+      "position": "Captian"
+    },
+    {
+      "name": "Monkey D Luffy",
+      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
+      "position": "Captian"
+    },
+    {
+      "name": "Monkey D Luffy",
+      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
+      "position": "Captian"
+    },
+    {
+      "name": "Monkey D Luffy",
+      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
+      "position": "Captian"
+    },
+    {
+      "name": "Monkey D Luffy",
+      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
+      "position": "Captian"
+    },
+    {
+      "name": "Monkey D Luffy",
+      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
+      "position": "Captian"
+    },
+    {
       "name": "Monkey D Luffy",
       "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
       "position": "Captian"
     }
-  },
-  {
-    "person": {
-      "name": "Monkey D Luffy",
-      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
-      "position": "Captian"
-    }
-  },
-  {
-    "person": {
-      "name": "Monkey D Luffy",
-      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
-      "position": "Captian"
-    }
-  },
-  {
-    "person": {
-      "name": "Monkey D Luffy",
-      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
-      "position": "Captian"
-    }
-  },
-  {
-    "person": {
-      "name": "Monkey D Luffy",
-      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
-      "position": "Captian"
-    }
-  },
-  {
-    "person": {
-      "name": "Monkey D Luffy",
-      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
-      "position": "Captian"
-    }
-  },
-  {
-    "person": {
-      "name": "Monkey D Luffy",
-      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
-      "position": "Captian"
-    }
-  },
-  {
-    "person": {
-      "name": "Monkey D Luffy",
-      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
-      "position": "Captian"
-    }
-  },
-  {
-    "person": {
-      "name": "Monkey D Luffy",
-      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
-      "position": "Captian"
-    }
-  },
-  {
-    "person": {
-      "name": "Monkey D Luffy",
-      "avatar": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-nen-one-piece-dep-cho-dien-thoai_120559355.png",
-      "position": "Captian"
-    }
-  }
-]
+  ]
+}
